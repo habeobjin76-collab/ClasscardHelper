@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">ClasscardHelper</string>
-    <string name="accessibility_service_description">Shows a visible CH overlay with a menu you open and use yourself. This service does not read screen content or act on other apps.</string>
+    <string name="accessibility_service_description">사용자가 CH 메뉴를 띄우고 ClasscardHelper를 여는 접근성 오버레이입니다. 화면 내용이나 다른 앱의 텍스트를 읽지 않습니다.</string>
 </resources>
