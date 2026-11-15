@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">ClasscardHelper</string>
-    <string name="accessibility_service_description">사용자가 CH 메뉴를 띄우고 ClasscardHelper를 여는 접근성 오버레이입니다. 화면 내용이나 다른 앱의 텍스트를 읽지 않습니다.</string>
+    <string name="accessibility_service_description">사용자가 앱 암기를 시작했을 때만 클래스카드 앱(classcard.net)의 접근성 화면에서 카드 버튼을 찾아 누릅니다. 화면 내용은 저장하거나 네트워크로 전송하지 않습니다.</string>
 </resources>
